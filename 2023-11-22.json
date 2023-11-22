@@ -1,0 +1,26 @@
+{
+  "name": "Lucy Young",
+  "age": 23,
+  "address": {
+    "street": "Situ Circle",
+    "city": "Gepekna",
+    "state": "MA",
+    "zip": "42326"
+  },
+  "contact": {
+    "phone": "(420) 718-9992",
+    "servicePhone": "800121717"
+  },
+  "birthday": "1960-06-27T00:39:40.703Z",
+  "ip": "28.93.35.106",
+  "foo": "bar",
+  "profile": {
+    "about": "Emasukaki sejtij takufweh teztecho wiji ca ga cuca jumiprak na lanek lazuha zesjaed. Ateit getaha za joibjo tokolit pehaga kecsi tagzit mipinlug rufrat ogonil uwezet po woremih dar lofu wakofu. Rolbibu sidow ijebepi liruziela cehbiwpec ew maw zegnas ruk kin tub deusga sonutpak cokrit.",
+    "bio": "Folat epe sivlon nuvabfuw wov ita ni misen cohwu docit horejiz sot nujzen arsuego lolo ido. Lora sula ho besundoc pe duwkeji tutdok ap sogaud lij rovarup baz onuorvos setus lugsonul. Te egicab zofkat efucar ezigejik laketoj ek sevo hikujo kuswuujo lulaftor cakudme zitdocluk hareap. Sicof zovceluv pezolkej uz eweoku zijecho ivo toh jo ma konecga ewihi va fa par. Taddur wi giel weskipom robirano sezpupu varvegud wo sug jodemani ratsi ribon ge. Ber upodo roromfof ho avitaaz rorbufbaz sanec ur zube fumik iknug co belke go big."
+  },
+  "apiKey": "d60c5f5b032e0c57d7fa87cb0a1fb13f9b2d57bacf0f37a27fd1bf1faf4ce478",
+  "currency": {
+    "code": "SHP",
+    "name": "Saint Helena Pound"
+  }
+}
