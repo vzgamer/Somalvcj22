@@ -1,0 +1,26 @@
+{
+  "name": "Lola Williams",
+  "age": 30,
+  "address": {
+    "street": "Tovo Park",
+    "city": "Mitajfe",
+    "state": "WY",
+    "zip": "32370"
+  },
+  "contact": {
+    "phone": "(556) 860-3254",
+    "servicePhone": "800887353"
+  },
+  "birthday": "1996-03-03T19:20:40.593Z",
+  "ip": "244.213.15.21",
+  "foo": "bar",
+  "profile": {
+    "about": "Sip sucrelo lewe buzobi hapefa vucwa rudpeap olewi zufhir luekese tedka ana pozmarof ovfekva olisu goag. Idawe ek afaof foc lagsonla etbi ezopeote seg ebzu vegupfo od egmef mek jitila fel re sazjehned. Siwhahsa taevac rov gilev moij fori rakmupru ugomuwoh pumicog desawha coz sosi.",
+    "bio": "Kipa peweil ge ru bezol fekorota facagej gu veali rufdecdub lid per fuf gomzovcir pagupnos marovda bub kutihnu. Todceuzu rej wasobi so pewirma tiri sekose ora dupsin omekago sinumeoj eje kicdum jaj tincogpeg cegfufec zolziob. Ru apirin sakucja moerni ahahirca liz wihub iwaje roroize orawelac tiplaho ak eceziz lo li ofu. Mahenvog owanon sigjuze viatupi gavzuvoz mor puwar mulpom lomul cega wazfiogo pacifwo."
+  },
+  "apiKey": "e154853a775763032bb9b8e8635d6d62bc76ab5bdf01aac3c62eb7e3251ef204",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
