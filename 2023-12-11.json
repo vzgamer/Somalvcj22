@@ -1,0 +1,26 @@
+{
+  "name": "Thomas Cook",
+  "age": 56,
+  "address": {
+    "street": "Kome Glen",
+    "city": "Zirotte",
+    "state": "MA",
+    "zip": "50841"
+  },
+  "contact": {
+    "phone": "(250) 404-6331",
+    "servicePhone": "800612973"
+  },
+  "birthday": "1997-04-23T17:18:10.730Z",
+  "ip": "30.178.193.50",
+  "foo": "bar",
+  "profile": {
+    "about": "Tu hew hi ed divi imce mij bubwarah ciinesik ful lur po boca butra rumi. Ase vat mugjamte supicuaku ukacoz gosu net coz ku zazmac mefodhe hopek og tufiga nineb sor. Wovho dozvataf jaz olavjum wir hemca zuflorka wuzaljuv nordictus okevi urmida simerbo roci egovadaw.",
+    "bio": "Vodmac aw gevlam rufadat ju pot hog cisud am egzorri wububom uzeiv nip. Vorivzu keja ipifa tatuparek teci purkek udruge puilowi cumwuswu zehsofa ohidi eroze orezop ranu uzigeh jipakigi tum evuucuami. Ru gikehdim mem zij wure akduple paz jihgarak fiarki jad zur ma dinsibfu. Dad nafeb isosinizu lusozuk iwsu masune negfop ubi hamuhpov gima di aw wutkuij jedfu hivluzuj pacfo. Ismoz sum pipwem ham ozowovon ote cumba goezhi ulefuk vazla suis miruupo wec mod."
+  },
+  "apiKey": "fd391c02dc0c73399b54a0ab2fe31c6a208708c3a5a62c2511f000419f640f26",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
