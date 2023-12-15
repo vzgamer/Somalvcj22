@@ -1,0 +1,26 @@
+{
+  "name": "Connor Strickland",
+  "age": 36,
+  "address": {
+    "street": "Lovar Drive",
+    "city": "Bevzavzut",
+    "state": "ME",
+    "zip": "28300"
+  },
+  "contact": {
+    "phone": "(407) 469-3355",
+    "servicePhone": "800744311"
+  },
+  "birthday": "1992-01-16T05:08:57.872Z",
+  "ip": "56.232.57.238",
+  "foo": "bar",
+  "profile": {
+    "about": "Halzuge oglawo tihhop got cusubvim uwogu beg puos vini ki dad levwow. Riek ubzu cuotedi pu javip co kow bucelaja ba kuf bavmo vi nup li atatalob zinu. Teleer barador talsotuh cuncota tonicoca doloviica pep sifa puelagog pi la ruv hibsu ka salvunwi.",
+    "bio": "Lisivo ajabefhap po figac suwusow gidmamce fe pilesu vuz ceti purakaj vodgak. Fem fa zi lemwi uso ram ija ruvboz kabirum bebo kah vuirlew wugdoj gepcos aklaro hovdul. Ki ekasuk tassi cav womjat ekidop boza cit owoconin wu for tocum nefep tihougu avhon nowumfi. Go zir fof uvu ogajoh zit otocihca nezras zopcifde cah rikda so ninmuwa ma wabiwva jiton gajekcu. Coipe piraha zow wugo zigip fesrekop putire ri gafeftuv ugsoime hifazfah wez ruhi davoc usoheozu wivo mof wu. Owemede ropew per ewpijuw kimicu futacehi emkod cencutot ugi fairiov kipnokbif vemop mak vo fe. Uhuso vavisal valzuh fovmed lukoben lunmop je bopgav adu nu lehpiz fa ri."
+  },
+  "apiKey": "7e06b0db03a8b593cd1f3d3d22110237f0aa592f93eb33ee4799ab05ec294a29",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
