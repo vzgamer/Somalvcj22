@@ -1,0 +1,26 @@
+{
+  "name": "Ray Ray",
+  "age": 43,
+  "address": {
+    "street": "Dere View",
+    "city": "Hendibul",
+    "state": "OH",
+    "zip": "33676"
+  },
+  "contact": {
+    "phone": "(316) 741-5823",
+    "servicePhone": "800439961"
+  },
+  "birthday": "2000-12-17T06:59:54.789Z",
+  "ip": "211.0.192.92",
+  "foo": "bar",
+  "profile": {
+    "about": "Sidatuzu cidka tedgore koda leb robdud goskimlu wa pawvud juzemefek ba ojuobajuk torih. Os ivesaw ihareti fa dak wedag hij vuvcoir icvasop emaiwuv fa sa. Pa fovjis cew obiusewi mas uhu rozcer liat usiki ca ficoveuw bid fogrocid laub lupih ri pohoihe. Iluru bikkocnet osiduoh imtabpo wevit de pukdaf mofroujo ida ja lari mu ucwedek soeca ro lo lip. Caahugaz avo rol sudgimbef cu fufafit hanac eduro fapihcul iwukos hugfe uffujun se ga aglutjoj awuwipce co ih.",
+    "bio": "Anovofat sinum mihiknif fu bigo ewuod woti mi tuogali ce erebamop niuj riren dujus zec. Ovjas ciwu otduve evgihze lod bogpagvih gu apugu kihako zanuj puzgita favwuv vahnenet eri. Huwaw wudohuh wuru vuw vawhab vugvah apteni dalahev howihne sug zowumseb saholo co foku bamewi nimbese fo. Ci eza vokoh ho ajuobeja isupevop guas kene fuk soji ni nekek hefefpiv so rop saja ifilif voro."
+  },
+  "apiKey": "b4acd5554d6564f835dfcfe6940a8791ba92195fc512ed925d67ef404c9997d5",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
