@@ -1,0 +1,26 @@
+{
+  "name": "Rosalie Ross",
+  "age": 61,
+  "address": {
+    "street": "Pahew Avenue",
+    "city": "Siduta",
+    "state": "IL",
+    "zip": "77442"
+  },
+  "contact": {
+    "phone": "(888) 474-2832",
+    "servicePhone": "800129965"
+  },
+  "birthday": "1961-05-13T13:16:52.814Z",
+  "ip": "187.3.127.81",
+  "foo": "bar",
+  "profile": {
+    "about": "Pu winmepva odoevuaka fugikeso isvuke umema oke rane jaked ce wolba nudjohgul dafwumez mafaek topdunri. Rukol garparce bedecli kejwempeg gibtacuh rasovinut mukceras si ojzewihi bo tesuf simjarlik. Akuaci eroihbav hiilsi kajec ri fav nukerebel jegog dipe ez zifrema dudno ri mipukud fel.",
+    "bio": "Si wukufo momnu nucwiwcu ococogi cazihcon cagew sukferhi devfuago romhiogi getmueb is laptub. Cevtacle uziot cu gusutus enasesmad lickuc gozu oh cakozpik seidizi atodocic ahvibno. Dew fol kislecgac edofugjaz rimeowe pare ruwiv vogubez korra gehpo fapdo bo imiweb boohewi jicdavowu lel."
+  },
+  "apiKey": "bc51ba86ab55c75853fb94996887e8933882492ce8237795b0542b141376ea3e",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
