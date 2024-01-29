@@ -1,0 +1,26 @@
+{
+  "name": "Jean Garza",
+  "age": 63,
+  "address": {
+    "street": "Heja Way",
+    "city": "Zunizitus",
+    "state": "ID",
+    "zip": "85391"
+  },
+  "contact": {
+    "phone": "(972) 326-8525",
+    "servicePhone": "800514333"
+  },
+  "birthday": "1980-04-17T23:27:16.118Z",
+  "ip": "204.111.56.219",
+  "foo": "bar",
+  "profile": {
+    "about": "Wi dalas nuf igasebse fi jailoewa feloseser bu cuk wucmo aworat kustece tol geporsan mof mulisug rista ijrebjes. Cefetu kiakhil dot dub tuj pajzap kodol ipi iledfu zuiwih fouv hi laigi ot vo dim. Apwis akidebte ugu ekuwde asubumev imaujho ajo zebcojad sogi dat boraji ekefe gon isucegmo ucohej limpi. Ruzi fo kahuga bo sij fu gigiewo teidi kofaf doomjub ijcudsob wacgifom.",
+    "bio": "Mig tiacidi din lab mokeok tobnejez gade sal vadzed piucezib ifa atozik gawvumiz vinweiti bisalivu kev wiscepu. Fahpa geguha zapihzef bid esu feman uh fekop bob ditel romci lofsa evivekeco. Wep utononu alhedid nam keroma jeori nesiris adkoar cer tal bispi jol muevso hiv bunugfi. Sepih zeego goijdav fi jelo uzebovi iwibuji ida gula je bufcoenu lihbogof ohi sudim. Bahajtib vihpino eggoro bil suw ceksoj zapdohih ekumuse ekzacmo agmopkoc nup mumlag in ladtu zoh jas."
+  },
+  "apiKey": "c6d7bb5c8fcb929ec5b352c91c8db36faa550e23bcee20aefc138e0b74ad4093",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
