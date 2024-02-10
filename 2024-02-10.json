@@ -1,0 +1,26 @@
+{
+  "name": "Maria Ramos",
+  "age": 52,
+  "address": {
+    "street": "Hiji Mill",
+    "city": "Raeboge",
+    "state": "UT",
+    "zip": "52646"
+  },
+  "contact": {
+    "phone": "(586) 306-7205",
+    "servicePhone": "800587661"
+  },
+  "birthday": "1994-10-18T19:25:31.642Z",
+  "ip": "135.106.247.67",
+  "foo": "bar",
+  "profile": {
+    "about": "Hekukpo cochulub tuv lotitune gotibi gi allol lit guvufoemo behu izabi osuro gijguwu beuhezif mar tugje lacri zingiese. Vik kitsimfoh gusfob uvu ciguhhun jice zi ra juvato mufnieza zu ene. Sesub wobembe ik makej mah iwibi ze kolazago udciso wance avjefek liri arkor jawa unimi unho maud.",
+    "bio": "Iba dohek inimiw umisumik fulkih iz gozohiz susbacoh zopof fe hi kobbezbe hezihafa omuhu pihnezweh luwij. Sohrik ijo zuwa wat ba ravfa veasa kubtev ucsutaji pubic tom evosakhu jejjosac gagu movaworev. Tumuow fopekat giinolen ticu wejvorzi fupzu ip jowavi lo nusinku gifwa ho hewbudgi nozob difojiso derfuz lethar."
+  },
+  "apiKey": "1e057529b612f17e0dde00deaafa81ca973d32741d8c92148732f6640392efd6",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
