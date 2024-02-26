@@ -1,0 +1,26 @@
+{
+  "name": "Lelia Reyes",
+  "age": 62,
+  "address": {
+    "street": "Hief Plaza",
+    "city": "Filmubu",
+    "state": "NM",
+    "zip": "21869"
+  },
+  "contact": {
+    "phone": "(286) 439-5455",
+    "servicePhone": "800488529"
+  },
+  "birthday": "1999-01-09T01:11:43.646Z",
+  "ip": "11.194.101.247",
+  "foo": "bar",
+  "profile": {
+    "about": "Owoduag lekdek usnum ron wenif tos na orejez zo wa idmo gemmuoc wu vafgucik hewci cepidopa er. Papo lumif jumbo raw ju mo vu odajot poreci udju mobiifi bekzi fouc mu cajrowhi vudtiw. Su cufi cih ja vuzij lodfo pichemo movneb leriwa efegef kah koztet co ho koz zi coksu.",
+    "bio": "Zatir icjec nepod mouka va aj suvilva bejpocrek git hed ese kowiw lupuog fatifog dig ginpe. Isbeca owo ed cuulzim re nu icgurfeg ej vo imig anuvugon iji ehpep cakow. Anfe daki wo je je kagod ocel luffoili foksol colzirkaj ne maihi nov acuta higne timuw wotzib gu. Pelciz weku op ce juip jinvi tuiz orazak afibac vafdom vipnahel lo feowe tano ce ihuog one."
+  },
+  "apiKey": "031fcc4602c1f60ecd9244051c2737f0bd0803cff5eec3bb246bf4d30def7adf",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
