@@ -1,0 +1,26 @@
+{
+  "name": "Jim Bowers",
+  "age": 23,
+  "address": {
+    "street": "Ekwob Terrace",
+    "city": "Wobtevcoc",
+    "state": "PA",
+    "zip": "57346"
+  },
+  "contact": {
+    "phone": "(275) 718-7170",
+    "servicePhone": "800491664"
+  },
+  "birthday": "1997-06-03T02:26:32.117Z",
+  "ip": "64.108.197.117",
+  "foo": "bar",
+  "profile": {
+    "about": "Haeviowe sus muhutso kej wum bat dil su vek wope cibdowhov gevramdi jasa otkijo tafo zil kubjocsoz ofizu. Ugo bimoz hev detumew sutzihco me befirat jolnufsum kuz vo ofol mozuf fap. Ni gasew barum ilpise momamki sa bot hobel geszod gilumor go fe caileh cu afwi. Zo epu imi lucvi re cubfodop cig lotjug mazbor er gep micitaw kovcu.",
+    "bio": "Fi id bofugu waehavub lis la tezvo zot zerafav vud zo ilagu kivi. Necjifoh ovevara cag biavirip jiihri fac ipeleeva zecinu obo kaz zunri pejzu depde. Idavose fumoldir zumovu nes iw sev wihcuk cirobod oddov du zolis fucco. Ki uf buv hib sujtaku dukehah kukhariw opa maen bav ga ca aljobpa ipihepci lidadra."
+  },
+  "apiKey": "ef404a01c138955f348540844d4574acab6219bd7817ffbaee0c5dd5328bc82c",
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistan Rupee"
+  }
+}
