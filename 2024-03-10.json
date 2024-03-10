@@ -1,0 +1,26 @@
+{
+  "name": "Rhoda Cohen",
+  "age": 42,
+  "address": {
+    "street": "Zadan Loop",
+    "city": "Kowpifnif",
+    "state": "HI",
+    "zip": "45851"
+  },
+  "contact": {
+    "phone": "(669) 647-4794",
+    "servicePhone": "800267573"
+  },
+  "birthday": "1998-01-03T05:49:12.024Z",
+  "ip": "226.233.225.109",
+  "foo": "bar",
+  "profile": {
+    "about": "Agu ijeen zagkoh gecpevi itebob mec bad guhikosor pi ozofi difocag jikfi wamso ko owtep ohedaf. Gekjez gakborfa usi husu ol sa otove gazciog sansetag zocim pi lofoah afu bepepik ohutimo pifrof. Izicizsoh ra sogu vufesas cit hewi ti epolon rut nom ojdam nokomup.",
+    "bio": "Ra kinkimuw ku nemdef ivewiem nikfuw lovninfuh movuffet mo janboir mokbo legtugnom ga buglet vi duvwu. Caraji haf ka ozgutwu arierusu peklukfop su lu janone romitino ugavage unupo fuh fozukkik. Evfe fuzo rottom zedzu fag cemnek zatekrin bolsera wiv juw li hihud hap gubik. Fuw sovetu udmabih neuwo kojuh ezu lulac rupojzuj jeblekar fekpeep haem egdovji ki."
+  },
+  "apiKey": "b1017a3053bb8f784af24058bdbd6a72ab0c0eb4caaf4c9b1a645ec2477cb47b",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
