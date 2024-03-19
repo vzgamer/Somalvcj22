@@ -1,0 +1,26 @@
+{
+  "name": "Nora Ford",
+  "age": 22,
+  "address": {
+    "street": "Guvkom Center",
+    "city": "Gogamu",
+    "state": "MA",
+    "zip": "83563"
+  },
+  "contact": {
+    "phone": "(621) 223-3187",
+    "servicePhone": "800795712"
+  },
+  "birthday": "2002-09-25T14:39:15.712Z",
+  "ip": "20.231.205.52",
+  "foo": "bar",
+  "profile": {
+    "about": "Baj fuzili wo totted nowitoipu micmoiki fej enteapi jajzah ig tuborta umtac kuv ba idesahuf uso ofeojni kihtab. Zig wag hidiz vebuz sodru se ojti dab tis dubvafku emudohog noapu ofi subobked gejtid ju wada po. Lewian ti zarkoc tusiw hi kep tourulu ed ehpufet be fojapu moisideh vumofale vivpele sume. Hol wij mah gaznac jihuahe ufaseb wovowa ro tupves morak ogi weivujo etapo cicusse. Fop mutda tezkisin pavic zosahel porli birnuz lenmu zanocraz tu ofpah bospej wetimed deetitu na.",
+    "bio": "Ij ovborma pezwad po epiko obedumese ha vehok law nifmajbi egcek iw higkab ahu gew. Fi buvzuv rabo ji juop pazigi boc taz tid zucep fo evipe japujvek gojuma nezka. Oteonnov rigewite wow fuctiltub di setkar haicdu laman ribga pecju lewze kaf sacjeroti zafku wologo ine kuhe. Simum luni pih lewbun ri aj gadderle ken etume uhu okwo wuj uj zerulda er."
+  },
+  "apiKey": "1c03cd2b98692caf4efb26fa6bbddbc69df21b08e72b00534b245ef2891820c0",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
