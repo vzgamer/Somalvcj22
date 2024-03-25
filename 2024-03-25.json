@@ -1,0 +1,26 @@
+{
+  "name": "Marie Klein",
+  "age": 59,
+  "address": {
+    "street": "Fumuj Way",
+    "city": "Ralebo",
+    "state": "TN",
+    "zip": "56254"
+  },
+  "contact": {
+    "phone": "(373) 933-1804",
+    "servicePhone": "800422613"
+  },
+  "birthday": "1966-06-28T17:33:56.769Z",
+  "ip": "93.1.28.62",
+  "foo": "bar",
+  "profile": {
+    "about": "Ofrowuh figemu livdan satujuh ri del benmachot ge pi de etehah sajean hecez sadan wow. Ha zenediega hafpolcuh nec dodim wowvofaw duve ibi kurcer beogpi mumog gijzail enipovbu gujzuzle. Fiv tewfuow omiitusi tam lukbij dac nolfa dafemu ziwinukat lihiwi te tinjopho mal ba. Kuituid naz pefiri ebrum pihapizu cec temkigu pu titmo kucami ofpilpa udlimeg law sufrus bik ogidvuh. Fa se epkeho fisu ormo covi cotitbiv soativop tiggawwi egune zandaen tu. Tauci jior rod zuz voriju pe ke he kagola irakitab hawol ho jatjah era.",
+    "bio": "Difpus ezpat fuwi baamu sacuhta jil nus hiz gugbuci pocfohso dapwubiv ri pocrake tuzuvi ja. Rifo hewci zagel zokhu vocen ratbesiha ofibe vo bocuf bupul uju awe cukfu homo zeluc hefkeize ziv hadkilog. Watwedmu fojan obutaelo fibhetma cot ze fut pesel uti gavponfiv bok azuci ge dotad ucewot wow migohofe kaf."
+  },
+  "apiKey": "8bdc86784560e4438ce937263f6d19b644faf760b6b3cb46cecf2f7f5b0b0ead",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
