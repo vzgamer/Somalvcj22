@@ -1,0 +1,26 @@
+{
+  "name": "Chris Flores",
+  "age": 44,
+  "address": {
+    "street": "Udapor Place",
+    "city": "Ukotocij",
+    "state": "CO",
+    "zip": "71644"
+  },
+  "contact": {
+    "phone": "(809) 494-3834",
+    "servicePhone": "800156418"
+  },
+  "birthday": "1976-09-07T15:50:49.187Z",
+  "ip": "214.75.163.65",
+  "foo": "bar",
+  "profile": {
+    "about": "Ew votkenik jef ligta famnako seg vobajeme tazhahge deuvirom ejiowaov kijgis jup miimu. Us lodu pa emuiteika bufhu kin oz domze muv kerno horlughu wokanpa. Kudsajdi peg apcuj ron moma ec ju parri cez ija cu eh wige puvagaz joj fahojnu bomi. Terwe efu uf rewpuwa berapur mic racuk ezu oca de jadaswa kudkopir jo bum gon odlo hu so. Mopzah kaote in carramiwu pu vazhinec osaku rishuv opzi togapweh aj silkasot abogucu vi ogize gudo. Su op nokemkeg katmuhide uf kaope koso ile nehaj buighe ejzo ac duhbi siem dugig.",
+    "bio": "Nam god ih nim vaemeet guofi ekicime azku nuvib bunuskuz bel ozisozci. Kewew wilcodga fa co ome zos nuhoala ago gov tor bekfuv lucjedzun. Ge ejko agefiscuj ze vem vilmovmil fivaceana nuh paravef leetoli zewik cefu."
+  },
+  "apiKey": "70f03feb79b8770b086d317c7b676773ef68b7dd9920c54323e2ea770aba4f99",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
